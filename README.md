@@ -1,6 +1,6 @@
 # TensorflowFirstApp
 
-Whelp, here we go barging head-first into the field of machine learning. As I am not a data scientist, I'll just be using Keras with TensorFlow so that I don't have to train my own models. 
+Whelp, here we go barging head-first into the field of machine learning. As I am not a data scientist, I'll just be using a beginner TensorFlow tutorial. 
 
 *Original README continues below*
 
