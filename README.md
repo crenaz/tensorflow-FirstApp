@@ -2,6 +2,8 @@
 
 Whelp, here we go barging head-first into the field of machine learning. As I am not a data scientist, I'll just be using Keras with TensorFlow so that I don't have to train my own models. 
 
+*Original README continues below*
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
 ## Development server
