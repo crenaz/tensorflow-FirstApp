@@ -1,6 +1,6 @@
 # TensorflowFirstApp
 
-Whelp, here we go barging head-first into the field of machine learning. As I am not a data scientist, I'll just be using a beginner TensorFlow tutorial. 
+Whelp, here we go barging head-first into the field of machine learning. As I am not a data scientist, I'll just be using [fireship's](https://fireship.io) TensorFlow [tutorial](https://fireship.io/lessons/tensorflow-js-quick-start/). 
 
 *Original README continues below*
 
