@@ -5,10 +5,11 @@ import * as tf from '@tensorflow/tfjs';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
+  standalone: false,
 })
 export class AppComponent implements OnInit {
   title = 'tensorflow-FirstApp';
-  linearModel: tf.Sequential;
+  linearModel!: tf.Sequential;
   prediction: any;
 
   ngOnInit(): void {
